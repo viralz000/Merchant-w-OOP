@@ -1,0 +1,11 @@
+C:\Users\ROBERTO\source\repos\Merchant\Merchant\bin\Debug\Merchant.exe.config
+C:\Users\ROBERTO\source\repos\Merchant\Merchant\bin\Debug\Merchant.exe
+C:\Users\ROBERTO\source\repos\Merchant\Merchant\bin\Debug\Merchant.pdb
+C:\Users\ROBERTO\source\repos\Merchant\Merchant\bin\Debug\Merchant.xml
+C:\Users\ROBERTO\source\repos\Merchant\Merchant\obj\Debug\Merchant.vbprojAssemblyReference.cache
+C:\Users\ROBERTO\source\repos\Merchant\Merchant\obj\Debug\Merchant.Form1.resources
+C:\Users\ROBERTO\source\repos\Merchant\Merchant\obj\Debug\Merchant.Resources.resources
+C:\Users\ROBERTO\source\repos\Merchant\Merchant\obj\Debug\Merchant.vbproj.GenerateResource.cache
+C:\Users\ROBERTO\source\repos\Merchant\Merchant\obj\Debug\Merchant.exe
+C:\Users\ROBERTO\source\repos\Merchant\Merchant\obj\Debug\Merchant.xml
+C:\Users\ROBERTO\source\repos\Merchant\Merchant\obj\Debug\Merchant.pdb
